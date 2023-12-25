@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-body-tertiary{
+    background-color: wheat !important;
+}
+
+.dropdown-menu {
+    background-color: wheat !important;
+}
+
+a{
+    color: slategray !important;
+}
+
+.carousel-indicators [data-bs-target]{
+    width: 20px;
+    height: 20px;
+    background-color: limegreen;
+    border-radius: 50%;
+    border-top-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+}
